@@ -1,0 +1,7 @@
+.w-e-text-container [data-slate-editor] code {
+  background-color: transparent !important;
+  border-radius: 0;
+  padding: 3px;
+  border-bottom: 1px solid red;
+  cursor: pointer;
+}
