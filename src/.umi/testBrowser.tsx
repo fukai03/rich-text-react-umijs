@@ -3,7 +3,7 @@
 // DO NOT CHANGE IT MANUALLY!
 import React, { useEffect, useState } from 'react';
 import { ApplyPluginsType } from 'umi';
-import { renderClient, RenderClientOpts } from '/Users/fukai03/Desktop/test code/富文本/rich-text-react-umijs/node_modules/.pnpm/@umijs+renderer-react@4.0.30_ef5jwxihqo6n7gxfmzogljlgcm/node_modules/@umijs/renderer-react';
+import { renderClient, RenderClientOpts } from '/Users/fukai03/Desktop/test code/富文本/rich-text-react-umijs/rich-text-react-umijs/node_modules/@umijs/renderer-react';
 import { createHistory } from './core/history';
 import { createPluginManager } from './core/plugin';
 import { getRoutes } from './core/route';

@@ -8,4 +8,4 @@ export {
   proxyWithDevtools,
   proxyMap,
   proxySet,
-} from '/Users/fukai03/Desktop/test code/富文本/rich-text-react-umijs/node_modules/.pnpm/@umijs+valtio@1.0.0/node_modules/@umijs/valtio';
+} from '/Users/fukai03/Desktop/test code/富文本/rich-text-react-umijs/rich-text-react-umijs/node_modules/@umijs/valtio';
