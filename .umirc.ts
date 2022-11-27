@@ -44,6 +44,11 @@ export default defineConfig({
       path: '/TinyMCE',
       component: './TinyMCE',
     },
+    {
+      name: 'ProseMirror',
+      path: '/ProseMirror',
+      component: './ProseMirror',
+    },
   ],
   npmClient: 'pnpm',
 });
