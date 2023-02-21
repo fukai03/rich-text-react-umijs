@@ -49,6 +49,11 @@ export default defineConfig({
       path: '/ProseMirror',
       component: './ProseMirror',
     },
+    {
+      name: 'wrod导入导出',
+      path: '/ProseWordImportAndExportMirror',
+      component: './WordImportAndExport',
+    },
   ],
   npmClient: 'pnpm',
 });
